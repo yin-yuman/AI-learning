@@ -57,11 +57,11 @@ ReLU激活函数：引入非线性
 
 损失曲线：
 
-![Figure_1](C:\Users\尹宇曼mm\Desktop\images\Figure_1.png)
+![Figure_1](./images/Figure_1.png)
 
 ## 6. 预测展示
 
-![Figure_cat](C:\Users\尹宇曼mm\Desktop\images\Figure_cat.png)
+![Figure_cat](./images/Figure_cat.png)
 
 
 
