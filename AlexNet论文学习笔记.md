@@ -42,7 +42,7 @@ AlexNet通过构建更深的CNN网络，结合ReLU激活函数、跨GPU的并行
 
 ## 6. 模型结构
 
-![AlexNet](C:\Users\尹宇曼mm\Desktop\大二下\AI-learning\AlexNet\NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf)
+![AlexNet](./images/struct.png)
 
 如上图所示，该CNN网络包含8个带权重的层，其中前5层为卷积层，后3层为全连接层
 
