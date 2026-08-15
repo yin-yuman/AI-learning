@@ -64,7 +64,7 @@ mini-batch gradient descent、momentum
 
 ## 6. 模型结构
 
-![屏幕截图 2026-08-14 171224](C:\Users\尹宇曼mm\Desktop\屏幕截图 2026-08-14 171224.png)
+![figure](./figure.png)
 
 ## 7. 实验分析
 
