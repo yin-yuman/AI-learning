@@ -12,11 +12,11 @@
 
 ### 实验结果可视化
 
-![depth_accuracy](C:\Users\尹宇曼mm\PycharmProjects\VGG-learning\results\depth_accuracy.png)
+![depth_accuracy](./results/depth_accuracy.png)
 
-![depth_parameters](C:\Users\尹宇曼mm\PycharmProjects\VGG-learning\results\depth_parameters.png)
+![depth_parameters](./results/depth_parameters.png)
 
-![depth_training_time](C:\Users\尹宇曼mm\PycharmProjects\VGG-learning\results\depth_training_time.png)
+![depth_training_time](./results/depth_training_time.png)
 
 ### 实验一结果分析
 
