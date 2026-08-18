@@ -1,0 +1,23 @@
+[
+    {
+        "model": "VGG-4",
+        "parameters": 66410,
+        "train_accuracy": 72.25,
+        "test_accuracy": 48.26,
+        "training_time": 254.2513291835785
+    },
+    {
+        "model": "VGG-6",
+        "parameters": 288746,
+        "train_accuracy": 84.53,
+        "test_accuracy": 72.72,
+        "training_time": 354.76440167427063
+    },
+    {
+        "model": "VGG-8",
+        "parameters": 584170,
+        "train_accuracy": 83.68,
+        "test_accuracy": 70.66,
+        "training_time": 509.96497917175293
+    }
+]
