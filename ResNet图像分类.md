@@ -21,10 +21,8 @@
 |Plain CNN|214378|88.28%|74.62%|
 |ResNet|299690|76.44%|64.56%|
 
-同时插入：
-
-loss曲线
-accuracy曲线
+![Residual Loss](./results/residual_loss.png)
+![Residual Accuracy](./results/residual_accuracy.png)
 ## 4. 结果分析
 
 
